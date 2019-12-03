@@ -17,4 +17,4 @@ Based on the reference sequence,6 bases matched,14 skipped,5 matched
 9. Explain BAM CIGAR: 7M5D8M2I14M  (小写：7m5d8m2i14m）
 Based on the reference sequence,7 bases matched,5deleted,8 matched,2 inserted,14 matched
 10. how long is the read with alignment CIGAR of 7M5D8M2I14M?
-31
+31bp
